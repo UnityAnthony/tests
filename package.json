@@ -1,7 +1,11 @@
 {
   "name": "com.unity.tests",
   "displayName": "Unity Package Tests general",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "unity": "2019.2",
-  "description": "Unity test for Both Fred and Bob."
+  "description": "Unity test for Both Fred and Bob.",
+  "dependencies": {
+    "com.unity.testsfred": "https://github.com/UnityAnthony/testsFred.git",
+    "com.unity.testsbob": "https://github.com/UnityAnthony/testsBob.git"
+  }
 }
