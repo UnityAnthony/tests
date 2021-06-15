@@ -14,7 +14,7 @@
     }
   ],
   "dependencies": {
-    "com.anthony.testsbob": "1.0.0",
-    "com.anthony.testsfred": "1.0.1"
+    "com.anthony.testsBob": "1.0.0",
+    "com.anthony.testsFred": "1.0.1"
   }
 }
