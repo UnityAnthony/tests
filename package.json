@@ -3,6 +3,18 @@
   "displayName": "Unity Package Tests general",
   "version": "0.1.0",
   "unity": "2019.2",
-  "description": "Unity test for Both Fred and Bob."
-
+  "description": "Unity test for Both Fred and Bob.",
+  "scopedRegistries": [
+    {
+      "name": "Anthony",
+      "url": "https://github.com/UnityAnthony/",
+      "scopes": [
+        "com.anthony"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.anthony.testsbob": "1.0.0",
+    "com.anthony.testsfred": "1.0.1"
+  }
 }
