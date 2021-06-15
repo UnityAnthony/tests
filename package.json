@@ -3,9 +3,6 @@
   "displayName": "Unity Package Tests general",
   "version": "0.1.0",
   "unity": "2019.2",
-  "description": "Unity test for Both Fred and Bob.",
-  "dependencies": {
-    "com.unity.testsfred": "https://github.com/UnityAnthony/testsFred.git#1.0.0",
-    "com.unity.testsbob": "https://github.com/UnityAnthony/testsBob.git#1.0.0"
-  }
+  "description": "Unity test for Both Fred and Bob."
+
 }
